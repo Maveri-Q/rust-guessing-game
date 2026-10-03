@@ -1,4 +1,4 @@
-# rust-guessing-name
+# rust-guessing-game
 
 A simple terminal game written in Rust. The computer picks a number
 between 1 and 100, and you try to guess it.
