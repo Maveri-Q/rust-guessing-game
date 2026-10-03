@@ -1,0 +1,12 @@
+# Number Guessing Game
+
+A simple terminal game written in Rust. The computer picks a number
+between 1 and 100, and you try to guess it.
+
+## How to run
+1. Install Rust: https://rustup.rs
+2. Clone this repo
+3. Run `cargo run`
+
+## What I learned
+Variables, loops, match, user input. Not much, but still looking to learn more as i explore.
