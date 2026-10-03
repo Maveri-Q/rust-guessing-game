@@ -9,4 +9,4 @@ between 1 and 100, and you try to guess it.
 3. Run `cargo run`
 
 ## What I learned
-Variables, loops, match, user input. Not much, but still looking to learn more as i explore.
+variables, loops, match, reading user input, and handling bad input. Will learn much more as i progress.
